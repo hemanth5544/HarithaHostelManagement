@@ -69,7 +69,7 @@ const LoginPage = () => {
                     </button>
                 </div>
                 <button className="bg-green-500 text-white py-3 px-8 rounded-lg text-xl font-bold">
-                    Login with love
+                    Login
                 </button>
             </div>
         </div>
